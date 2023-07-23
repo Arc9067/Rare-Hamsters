@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Ultra&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer {
+  #hero {
+    background: url(./assets/heroBg.png) center center no-repeat;
+    background-size: 100% 100%;
+  }
+}
