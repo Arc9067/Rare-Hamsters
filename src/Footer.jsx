@@ -9,7 +9,7 @@ const Footer = () => {
         </p>
         <div className="flex items-center gap-4 flex-wrap  justify-center">
           <a
-            href="Twitter.com/RareHamsterERC"
+            href="https://twitter.com/RareHamsterERC"
             className="scale-75 hover:scale-95 cursor-pointer transition"
           >
             <svg
