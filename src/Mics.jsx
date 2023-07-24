@@ -12,22 +12,22 @@ const Mics = () => {
         </h1>
 
         <div className="grid w-full grid-cols-1 justify-between lg:grid-cols-3  items-center gap-8">
-          <div className=" h-[442px] flex flex-col justify-center items-center relative bg-indigo-500 rounded-[30px]">
-            <div className="text-white text-5xl font-normal leading-[67.20px] tracking-wide">
+          <div className=" h-[442px] flex flex-col justify-center items-center relative bg-cyan-400 rounded-[30px]">
+            <div className="text-black text-5xl font-normal leading-[67.20px] tracking-wide">
               Tax
             </div>
-            <div className="left-[140px] top-[318px]  text-white text-5xl font-normal leading-[67.20px] tracking-wide">
+            <div className="left-[140px] top-[318px]  text-black text-5xl font-normal leading-[67.20px] tracking-wide">
               1%
             </div>
             <div className=" left-[92px] order-1 top-[43px]  justify-center items-center inline-flex">
               <img className="w-[8rem] " src={mics1} />
             </div>
           </div>
-          <div className=" h-[442px] flex flex-col justify-center items-center relative bg-indigo-500 text-white rounded-[30px]">
-            <div className="text-white text-5xl font-normal leading-[67.20px] tracking-wide">
+          <div className=" h-[442px] flex flex-col justify-center items-center relative bg-cyan-400 text-white rounded-[30px]">
+            <div className="text-black text-5xl font-normal leading-[67.20px] tracking-wide">
               Tax
             </div>
-            <div className="left-[140px] top-[318px]  text-white text-5xl font-normal leading-[67.20px] tracking-wide">
+            <div className="left-[140px] top-[318px]  text-black text-5xl font-normal leading-[67.20px] tracking-wide">
               1%
             </div>
             <div className=" left-[92px] order-1 top-[43px]  justify-center items-center inline-flex">
