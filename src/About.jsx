@@ -6,7 +6,7 @@ const About = () => {
     <section className="py-14 w-full">
       <div className="container flex gap-7 justify-center items-center flex-col">
         <img src={about} alt="" className="w-max" />
-        <div className="text-center text-cyan-400 md:text-xl font-normal leading-10 max-w-4xl">
+        <div className="text-center text-indigo-400 md:text-xl font-normal leading-10 max-w-4xl">
           Use rarity meme cards on your favorite DeFi racing game “HamsterRace”.
           Our one-of-a-kind Rare Hamster rarity card consists of an abstract
           canvas followed by a vibrant palette. Our 3d design was crafted this
