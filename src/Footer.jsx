@@ -9,7 +9,7 @@ const Footer = () => {
         </p>
         <div className="flex items-center gap-4 flex-wrap  justify-center">
           <a
-            href=""
+            href="Twitter.com/RareHamsterERC"
             className="scale-75 hover:scale-95 cursor-pointer transition"
           >
             <svg
@@ -41,7 +41,7 @@ const Footer = () => {
             </svg>
           </a>
           <a
-            href=""
+            href="https://t.me/RareHamster"
             className="scale-75 hover:scale-95 cursor-pointer transition"
           >
             <svg
