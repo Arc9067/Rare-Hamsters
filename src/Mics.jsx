@@ -11,38 +11,27 @@ const Mics = () => {
           TOKENOMICS
         </h1>
 
-        <div className="grid w-full grid-cols-1 lg:grid-cols-3 justify-center items-center gap-8">
+        <div className="grid w-full grid-cols-1 justify-between lg:grid-cols-3 justify-center items-center gap-8">
           <div className=" h-[442px] flex justify-center items-center relative bg-amber-300 rounded-[30px]">
             <div className="left-[124px] top-[251px] absolute text-black text-5xl font-normal leading-[67.20px] tracking-wide">
               Tax
             </div>
             <div className="left-[140px] top-[318px] absolute text-black text-5xl font-normal leading-[67.20px] tracking-wide">
-              5%
+              1%
             </div>
             <div className=" left-[92px] top-[43px] absolute justify-center items-center inline-flex">
               <img className="" src={mics1} />
             </div>
           </div>
-          <div className=" h-[442px] flex justify-center items-center relative bg-blue-500 rounded-[30px]">
-            <div className="left-[124px] top-[251px] absolute text-white text-5xl font-normal leading-[67.20px] tracking-wide">
-              Tax
+          <div className="w-[360px] h-[442px] relative bg-blue-500 rounded-[30px]">
+            <div className="left-[102px] top-[48px] absolute justify-center items-center inline-flex">
+              <img className="w-[206.27px] h-[206.27px]" src={mics2} />
             </div>
-            <div className="left-[140px] top-[318px] absolute text-white text-5xl font-normal leading-[67.20px] tracking-wide">
-              5%
+            <div className="left-[79px] top-[245px] absolute text-white text-5xl font-normal leading-[67.20px] tracking-wide">
+              Supply
             </div>
-            <div className=" left-[92px] top-[43px] absolute justify-center items-center inline-flex">
-              <img className="" src={mics2} />
-            </div>
-          </div>
-          <div className=" h-[442px] flex justify-center items-center relative bg-rose-400 rounded-[30px]">
-            <div className="left-[124px] top-[251px] absolute text-black text-5xl font-normal leading-[67.20px] tracking-wide">
-              Tax
-            </div>
-            <div className="left-[140px] top-[318px] absolute text-black text-5xl font-normal leading-[67.20px] tracking-wide">
-              5%
-            </div>
-            <div className=" left-[92px] top-[43px] absolute justify-center items-center inline-flex">
-              <img className="" src={mics3} />
+            <div className="left-[141px] top-[333px] absolute text-white text-5xl font-normal leading-[67.20px] tracking-wide">
+              5m
             </div>
           </div>
         </div>
