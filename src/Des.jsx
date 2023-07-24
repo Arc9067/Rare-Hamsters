@@ -7,11 +7,11 @@ function Des() {
         <h1 className="text-5xl md:text-6xl uppercase text-center max-w-xl">
           win <span className="text-amber-500">any</span> race
         </h1>
-        <div className="w-[300px] h-16 relative">
-          <div className="w-[300px] h-[62px] left-0 top-[2px] absolute bg-indigo-200 rounded-full" />
-          <div className="w-[296px] h-[60px] px-8 py-4 left-0 top-0 absolute bg-indigo-500 rounded-full shadow justify-center items-center gap-2.5 inline-flex">
-            <div className="w-[216px] text-white text-xl font-normal leading-7 tracking-tight">
-              DOWNLOAD NOW
+        <div className="w-[300px] h-16 relative mx-auto flex justify-center items-center">
+          <div className=" left-0 top-[2px]  bg-indigo-200 rounded-full" />
+          <div className=" h-[60px] px-8 py-4 left-0 top-0  bg-[#00DBFF] rounded-full shadow justify-center items-center gap-2.5 inline-flex">
+            <div className=" text-black text-xl font-normal leading-7 tracking-tight">
+              BUY NOW
             </div>
           </div>
         </div>
